@@ -31,3 +31,8 @@ The app also uses a trained encoder and scaler to preprocess the user input data
 ## Conclusion
 The customer churn prediction app built in this repository is a great example of how machine learning can be used to make predictions about real-world scenarios. By using a trained random forest classifier model and Gradio's easy-to-use interface building tools, developers can quickly create a user-friendly app that can help businesses make better decisions about their customers.
 
+### Link to medium article: 
+https://medium.com/@violetteallotey/the-art-of-keeping-customers-a-gradio-app-to-predict-customer-churn-29561620e97c
+
+### Author
+Violette Naa Adoley Allotey
